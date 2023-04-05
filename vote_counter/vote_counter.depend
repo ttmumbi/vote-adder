@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1680637360 source:c:\users\mk\documents\baby games\baby game\vote_counter\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"dep.h"
+
+1680637293 c:\users\mk\documents\baby games\baby game\vote_counter\dep.h
+
